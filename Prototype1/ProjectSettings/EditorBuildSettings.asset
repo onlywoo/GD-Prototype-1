@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: a510c47c9416c484581600bbda21207e
+  - enabled: 1
+    path: Assets/Scenes/Mandrakes.unity
+    guid: 7e9bea3877e4a944da93eb91ef7fe700
+  - enabled: 1
+    path: Assets/Scenes/RomeoAndJuli.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/END.unity
+    guid: 7a8e1e61530274f4792029b2d2f0f895
+  m_configObjects: {}
